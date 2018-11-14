@@ -7,6 +7,7 @@
 /**
  *
  * @author jarmo
+ * * Tämä on GitHubssa - JavaRepository
  */
 
 package henkilotiedot;
